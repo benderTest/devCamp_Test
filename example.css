@@ -1,0 +1,9 @@
+
+
+nav {
+    .button {
+        &:hover {
+            /*styles here*/
+        }
+    }
+}
